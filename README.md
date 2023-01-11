@@ -1,6 +1,6 @@
 # Calculator
 ### Newest: version 0.0.0.0
-1. A calculator to do arithmetic calcualtion.
+1. A calculator to do arithmetic calculations.
 2. It has memory keys.
 3. Any key impression is notified by a beep.
 ## This archive includes the executable program, calculator.exe, which you should click on to run.
