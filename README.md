@@ -1,5 +1,10 @@
 # Calculator
-### Newest: version 0.0.0.1
+### Newest version 0.0.0.2
+1. A new section for **calculus** has been created, which includes derivative, antiderivative, limit, definite integration, power series, and evaluation.
+## This archive includes the executable program, **calculator.exe**, which you should click on to run.
+[Download the archive for win64 (Windows 10)](https://drive.google.com/file/d/192nfl86V0E8jtr5OM0jsD_AMljFyTGdX/view?usp=share_link)
+---
+### Version 0.0.0.1
 1. A graphing section is included.
 2. You can save the graph by the toolbar below. 
 3. You can use gridlines, or show legends, or limit *y* values.
@@ -18,5 +23,8 @@
 ![A snapshot of the calculator: Calculator, version 0-0-0-0](Media/ver-0-0-0-0.jpg) *Figure 1: A snapshot of Calculator, version 0.0.0.0, while doing operation.*
 ---
  
-![A snapshot of the calculator: Calculator, newest version](Media/ver-0-0-0-1.jpg) *Figure 2: A snapshot of Calculator, version 0.0.0.1, while doing operation.*
+![A snapshot of the calculator: Calculator, version 0-0-0-1](Media/ver-0-0-0-1.jpg) *Figure 2: A snapshot of Calculator, version 0.0.0.1, while doing operation.*
 ---
+![A snapshot of the calculator: Calculator, newest version](Media/ver-0-0-0-2.jpg) *Figure 3: A snapshot of Calculator, version 0.0.0.2, while doing operation.*
+---
+
