@@ -1,5 +1,13 @@
 # Calculator
-### Newest version 0.0.0.2
+### Newest version 0.0.0.3
+1. A new section for **solving** has been included:
+a) Algebraic solvers: for single equation and/or system of equations; both real and complex solutions
+b) Numerical solvers: for single equation and/or system of equations. For now, numerical solvers can search for Real solutions.
+Hint: For more than one equation, you should separate equations by commas.
+## This archive includes the executable program, **calculator.exe**, which you should click on to run.
+[Download the archive for win64 (Windows 10)](https://drive.google.com/file/d/1pS4tLMbkVCRdbXQx2SAPr3cQ94H3UCY8/view?usp=share_link)
+---
+### version 0.0.0.2
 1. A new section for **calculus** has been created, which includes derivative, antiderivative, limit, definite integration, power series, and evaluation.
 ## This archive includes the executable program, **calculator.exe**, which you should click on to run.
 [Download the archive for win64 (Windows 10)](https://drive.google.com/file/d/192nfl86V0E8jtr5OM0jsD_AMljFyTGdX/view?usp=share_link)
@@ -25,6 +33,7 @@
  
 ![A snapshot of the calculator: Calculator, version 0-0-0-1](Media/ver-0-0-0-1.jpg) *Figure 2: A snapshot of Calculator, version 0.0.0.1, while doing operation.*
 ---
-![A snapshot of the calculator: Calculator, newest version](Media/ver-0-0-0-2.jpg) *Figure 3: A snapshot of Calculator, version 0.0.0.2, while doing operation.*
+![A snapshot of the calculator: Calculator, version 0-0-0-2](Media/ver-0-0-0-2.jpg) *Figure 3: A snapshot of Calculator, version 0.0.0.2, while doing operation.*
 ---
-
+![A snapshot of the calculator: Calculator, newest version](Media/ver-0-0-0-3.jpg) *Figure 4: A snapshot of Calculator, version 0.0.0.3, while doing operation.*
+---
