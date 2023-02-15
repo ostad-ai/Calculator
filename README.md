@@ -1,8 +1,8 @@
 # Calculator
 ### Newest version 0.0.0.3
-1. A new section for **solving** has been included:
-a) Algebraic solvers: for single equation and/or system of equations; both real and complex solutions
-b) Numerical solvers: for single equation and/or system of equations. For now, numerical solvers can search for Real solutions.
+1. A new section for **solving** has been included:</br>
+a) Algebraic solvers: for single equation and/or system of equations; both real and complex solutions.</br>
+b) Numerical solvers: for single equation and/or system of equations. For now, numerical solvers can search for Real solutions.</br>
 Hint: For more than one equation, you should separate equations by commas.
 ## This archive includes the executable program, **calculator.exe**, which you should click on to run.
 [Download the archive for win64 (Windows 10)](https://drive.google.com/file/d/1pS4tLMbkVCRdbXQx2SAPr3cQ94H3UCY8/view?usp=share_link)
